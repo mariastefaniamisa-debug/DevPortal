@@ -1,0 +1,26 @@
+# Sistem operasi
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+
+# File sementara
+*.tmp
+*.temp
+*.log
+
+# File backup
+*.bak
+*~
+
+# Node.js
+node_modules/
+
+# File environment
+.env
+.env.local
+
+# Hasil build
+dist/
+build/
