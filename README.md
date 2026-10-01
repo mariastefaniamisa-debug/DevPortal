@@ -36,11 +36,19 @@ Project dibuat menggunakan HTML5 dan CSS3 murni tanpa framework CSS eksternal.
 
 ## 2. Struktur Project
 
+Struktur folder project RWD-LAB:
+
 ```text
 RWD-LAB/
 ├── index.html
 ├── README.md
 ├── .gitignore
+├── assets/
+│   └── images/
+│       ├── hero.jpg
+│       ├── html5.jpg
+│       ├── flexbox.jpg
+│       └── grid.jpg
 └── css/
     ├── reset.css
     ├── variables.css
