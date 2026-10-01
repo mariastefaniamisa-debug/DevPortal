@@ -6,11 +6,11 @@ Project Praktikum 1 Pemrograman Web dengan tema:
 
 ## Identitas
 
-- Nama: Tania Misa
-- NIM: ____________________
-- Mata Kuliah: Pemrograman Web (MK11)
-- Praktikum: Praktikum 1
-- Semester: Ganjil 2026–2027
+- Nama          : Maria Stefania Misa
+- NIM           : 42530037
+- Mata Kuliah   : Pemrograman Web (MK11)
+- Praktikum     : Praktikum 1
+- Semester      : Ganjil 2026–2027
 
 ---
 
